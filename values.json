@@ -1,4 +1,5 @@
 {
+"__THIS IS A COMMENT_": "This bellow is the company number, each digit should be written as it is now, because there is different field for each digit",
 "Company number 2": "2",
 "Company number 3": "5",
 "Company number 4": "3",
@@ -7,20 +8,84 @@
 "Company number 7": "4",
 "Company number 8": "9",
 "Company number 9": "8",
+
+
 "Company name 2": "Example Company Name", 
 "Company name 3": "Example Company Name 2", 
+
+"__THIS IS A COMMENT__": "This bellow is the date of director's appointment, each digit should be written as it is now, because there is different field for each digit",
+
+"SE date 2": "2",
+"SE date 3": "0",
+
+"SE date 4": "0",
+"SE date 5": "9",
+
+"SE date 6": "2",
+"SE date 7": "0",
+"SE date 8": "1",
+"SE date 9": "0",
+
+
 "Title 3": "Example Title", 
 "Forename 3": "Example Forename",
 "Surname 3": "Example Surname",
 "Former names 3": "Example Former names", 
 "Country / State of residence 3": "Example Country", 
-"Nationality 3": "Example Nationality", 
+"Nationality 3": "Example Nationality",
+
+
+"__THIS IS A COMMENT___": "This bellow is the Month of birth, each digit should be written as it is now, because there is different field for each digit",
+"Month of birth 3": "1",
+"Month of birth 4": "0",
+
+
+"___THIS IS A COMMENT__": "This bellow is the Year of birth, each digit should be written as it is now, because there is different field for each digit",
+"Year of birth 3": "1",
+"Year of biirth 4": "9",
+"Year of birth 5": "1",
+"Year of birth 6": "8",
+
+
 "Business occupation 3": "Example Business occupation", 
 "Service address builiding name/number 3": "Example building name", 
 "Service address street 3": "Example address street", 
 "Service address street 4": "Example address street", 
 "Service address post town 3": "Example address post", 
 "Service address county/region 3": "Example region", 
+
+
+
+"Date of birth day 3": "1",
+"Date of birth day 4": "7",
+
+
+"Date of birth month 3": "0",
+"Date of birth month 4": "5",
+
+
+
+"Date of birth year 3": "1",
+"Date of birth year 4": "9",
+"Date of birth year 5": "7",
+"Date of birth year 6": "6",
+
+
+
+
+"___THIS IS A COMMENT_": "This bellow is the Postcode, each digit should be written as it is now, because there is different field for each digit",
+"Service address postcode 3": "5",
+"Service address postcode 4": "3",
+"Service address postcode 5": "1",
+"Service address postcode 6": "8",
+"Service address postcode 7": "9",
+"Service address postcode 8": "2",
+"Service address postcode 9": "6",
+"Service address postcode 10": "8",
+
+
+
+
 "Service address country 3": "Example address country", 
 "Usual residential address building name/numner 3": "Usual residential address", 
 "Usual residential address street 3": "Usual residential street 3", 
@@ -28,6 +93,24 @@
 "Usual residential address post town 3": "Usual post town", 
 "Usual residential address county/region 3": "Usual region", 
 "Usual residential address country  3": "Usual residential country", 
+
+
+
+"_THIS IS A COMMENT_": "This bellow is the Postcode, each digit should be written as it is now, because there is different field for each digit",
+"Usual residential address postcode 3": "6",
+"Usual residential address postcode 4": "4",
+"Usual residential address postcode 5": "8",
+"Usual residential address postcode 6": "9",
+"Usual residential address postcode 7": "3",
+"Usual residential address postcode 8": "0",
+"Usual residential address postcode 9": "3",
+"Usual residential address postcode 10": "2",
+
+
+
+
+
+
 "Check Box 5": "/Yes",
 "Consent to act 3": "/Yes",
 "Additional former names 3": "Example former name 3", 
@@ -49,5 +132,19 @@
 "Presenter information county/region 2": "Example information region 2", 
 "Presenter information country 2": "Example information country 2", 
 "Presenter information DX  2": "Example information DX 2", 
-"Presenter information telephone 2": "Example information telephone 2"
+"Presenter information telephone 2": "Example information telephone 2",
+
+
+
+
+"___THIS IS A COMMENT": "This bellow is the Postcode, each digit should be written as it is now, because there is different field for each digit",
+
+"Presenter information postcode 3": "5",
+"Presenter information postcode 4": "8",
+"Presenter information postcode 5": "4",
+"Presenter information postcode 6": "9",
+"Presenter information postcode 7": "2",
+"Presenter information postcode 8": "1",
+"Presenter information postcode 9": "6",
+"Presenter information postcode 10": "0"
 }
