@@ -12,7 +12,7 @@ This Python script is designed to generate PDF documents from JSON data. The scr
 1. **Install Dependencies**: Make sure to have the necessary Python libraries installed. You can install dependencies using pip:
 
     ```
-    pip install reportlab pdfrw
+    pip install reportlab PyPDF2
     ```
 
 2. **Prepare PDF Forms**: Ensure that the PDF forms to be populated are accessible and have named fields. Named fields are crucial for the script to correctly map data from the JSON input.
