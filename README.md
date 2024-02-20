@@ -19,11 +19,7 @@ This Python script is designed to generate PDF documents from JSON data. The scr
 
 3. **Provide JSON Data**: Prepare JSON files containing the data to be populated into the PDF forms. Ensure that the JSON structure aligns with the field names in the PDF forms.
 
-4. **Run the Script**: Execute the Python script by providing the path to the PDF form and the corresponding JSON data file. For example:
-
-    ```
-    python generate_pdf.py form_template.pdf data.json
-    ```
+4. **Run the Script**.
 
 5. **Review Generated PDFs**: The script will generate PDF documents populated with the provided JSON data. Review the generated PDFs to ensure accuracy and completeness.
 
@@ -35,9 +31,9 @@ This Python script is designed to generate PDF documents from JSON data. The scr
 Contributions to the script are welcome! Feel free to fork the repository, make changes, and submit pull requests to enhance functionality, improve documentation, or fix bugs.
 
 ### Support:
-For any questions, issues, or suggestions, please feel free to contact the developer at [developer@example.com](mailto:developer@example.com). Your feedback is highly appreciated and will help improve the script for all users.
+For any questions, issues, or suggestions, please feel free to contact me at donkotonev04@gmail.com. Your feedback is highly appreciated and will help improve the script for all users.
 
 ### License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Thank you for using the PDF Data Generator from JSON script! Happy coding! 🚀📄
+Happy coding! 🚀📄
